@@ -26,5 +26,7 @@ public class Lab029_CharacterLiterals {
 
         char rupees = '₹';
         System.out.println(rupees);
+
+        char dollar = '$';
     }
 }
