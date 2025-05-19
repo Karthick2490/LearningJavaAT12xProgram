@@ -1,4 +1,4 @@
-package Exercise_1_Java_Basics;
+package Exercise1_Java_Basics;
 /* Math Operations
 **Author: Karthick
 */

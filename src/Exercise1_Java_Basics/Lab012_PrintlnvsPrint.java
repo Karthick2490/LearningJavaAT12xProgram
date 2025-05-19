@@ -1,4 +1,4 @@
-package Exercise_1_Java_Basics;
+package Exercise1_Java_Basics;
 
 public class Lab012_PrintlnvsPrint {
     public static void main(String[] args) {

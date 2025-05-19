@@ -1,4 +1,4 @@
-package Exercise_1_Java_Basics;
+package Exercise1_Java_Basics;
 
 public class Lab007_Comments_Shortcuts {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercise_1_Java_Basics;
+package Exercise1_Java_Basics;
 /*
 Author: Karthick Udayakumar
 Date: 15 May 11:08PM IST
