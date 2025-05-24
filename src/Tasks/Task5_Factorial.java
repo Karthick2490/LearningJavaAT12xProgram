@@ -15,11 +15,6 @@ public class Task5_Factorial {
         }
         number = scanner.nextInt();;
 
-        if(number == 0)
-        {
-            factorial = 1;
-            System.out.printf("Factorial of %d! is %d", number, factorial);
-        }
         for(int i = 1; i<=number;i++)
         {
             factorial = factorial * i;
