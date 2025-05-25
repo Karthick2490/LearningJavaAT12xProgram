@@ -1,9 +1,8 @@
 package Tasks;
 
-import java.io.InputStream;
 import java.util.Scanner;
 
-public class Task4_TriangleClassifier {
+public class Task7_TriangleClassifier {
     public static void main(String[] args) {
 //        ✅ Triangle Classifier:
 //        Write a program that classifies a triangle based on its side lengths.

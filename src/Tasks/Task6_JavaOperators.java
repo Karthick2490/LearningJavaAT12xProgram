@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task5_JavaOperators {
+public class Task6_JavaOperators {
     public static void main(String[] args) {
         //Task 3
 
