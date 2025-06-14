@@ -1,8 +1,6 @@
 package Tasks;
 
-import java.util.Scanner;
-
-public class Task15_FizzBuzzTest {
+public class Task16_FizzBuzzTest {
     public static void main(String[] args) {
         int number = 100;
         String output = fizzBuzzUsingSwitch(number);
