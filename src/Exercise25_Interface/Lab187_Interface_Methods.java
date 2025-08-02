@@ -1,6 +1,4 @@
-package Exercise_Interface;
-
-import java.util.Scanner;
+package Exercise25_Interface;
 
 public class Lab187_Interface_Methods {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercise_Interface;
+package Exercise25_Interface;
 
 public class Lab188_Interface_MulitpleInheritance {
     public static void main(String[] args) {

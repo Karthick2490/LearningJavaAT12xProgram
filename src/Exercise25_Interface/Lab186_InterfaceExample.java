@@ -1,4 +1,4 @@
-package Exercise_Interface;
+package Exercise25_Interface;
 
 public class Lab186_InterfaceExample {
     public static void main(String[] args) {
