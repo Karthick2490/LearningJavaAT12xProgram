@@ -13,6 +13,7 @@ public class Lab216_CustomExceptionExamples {
             try {
                 throw new Exception(("You are not allowed to Vote"));
             } catch (Exception e) {
+                //e.printStackTrace(); //Red error - Scary error
                 System.out.println(e.getMessage());            }
         }
         else {
