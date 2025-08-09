@@ -1,4 +1,4 @@
-package Exercise32_Collections;
+package Exercise32_Collections.List;
 
 import java.util.ArrayList;
 import java.util.List;

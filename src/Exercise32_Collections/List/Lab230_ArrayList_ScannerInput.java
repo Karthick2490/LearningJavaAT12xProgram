@@ -1,6 +1,5 @@
-package Exercise32_Collections;
+package Exercise32_Collections.List;
 
-import javax.naming.Name;
 import java.util.*;
 import java.util.Scanner;
 

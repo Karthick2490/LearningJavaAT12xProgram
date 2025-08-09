@@ -1,4 +1,4 @@
-package Exercise32_Collections;
+package Exercise32_Collections.List;
 
 public class Lab222_ArrayProblems {
     public static void main(String[] args) {
