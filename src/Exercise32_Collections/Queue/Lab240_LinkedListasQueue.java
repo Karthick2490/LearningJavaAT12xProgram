@@ -1,8 +1,6 @@
 package Exercise32_Collections.Queue;
 
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class Lab240_LinkedListasQueue {
     public static void main(String[] args) {
